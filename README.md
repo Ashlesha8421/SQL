@@ -15,3 +15,16 @@
 5.Creating a Table  
 
 6.Dropping a Table  
+
+# 2. Inserting Data (and a couple other things)
+1.Inserting data 
+
+2.Select command
+
+3.Inserting multiple command
+
+4.Mysql warnings
+
+5.Setting a default values
+
+6.A Primer On Primary Keys
