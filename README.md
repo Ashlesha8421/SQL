@@ -5,8 +5,13 @@
 
 # 1.Creating Databases and Tables 
 1.Creating Database
-2.Dropping Database 
-3.Basics DataTypes  
+
+2.Dropping Database
+
+3.Basics DataTypes
+
 4.Bascis Datatypes challanges  
+
 5.Creating a Table  
+
 6.Dropping a Table  
