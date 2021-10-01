@@ -28,3 +28,12 @@
 5.Setting a default values
 
 6.A Primer On Primary Keys
+
+# 3.CURD Commands
+CRUD COMMANDS are 
+   C=Create,
+   R=Rename,
+   U=Update,
+   D=delete.
+
+
