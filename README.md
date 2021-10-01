@@ -31,9 +31,9 @@
 
 # 3.CURD Commands
 CRUD COMMANDS are 
-   C=Create,
-   R=Rename,
-   U=Update,
-   D=delete.
+  # C=Create,
+  # R=Rename,
+  # U=Update,
+  # D=delete.
 
 
