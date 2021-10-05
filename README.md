@@ -36,4 +36,11 @@ CRUD COMMANDS are
   # U=Update,
   # D=delete.
 
+# 4.Load the data in mysql
+# 5.Operations on string
+1. Concat the string from the given data
+
+# 6.SUBSTRING 
+1.Introduction of substring | 2.how to use substring in single and multiple way 
+
 
