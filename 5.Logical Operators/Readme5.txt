@@ -1,1 +1,7 @@
-#Logical operator
+# Logical operator
+## -- 1.EQUAL | NOT EQUAL | LIKE | NOT LIKE | GREATER THAN (>) |
+GREATER THAN OR EQUAL (>=) | LESS THAN (<) | LESS THAN OR EQUAL (<=)
+  
+## -- 2. AND | && | OR | '||' | BETWEEN | IN | NOT IN 
+
+## -- 3. CASE STATEMENT | SOME PRACTICE SOLUTIONS
