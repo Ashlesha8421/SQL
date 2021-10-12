@@ -1,3 +1,5 @@
+# MYSQL 
+## -- A global leading software for working with relational database.
 # SQL 
 ## --What Is A Database?
 1. A collection of data
