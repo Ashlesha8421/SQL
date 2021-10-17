@@ -6,3 +6,8 @@
 ## Group By
 -- GROUP BY summarizes or aggregates identical data into single rows.
 
+## Sum == Add things together
+-- Sum all pages in the entire database
+-- SUM + GROUP BY
+-- Sum all
+--AVERAGE (AVG)
