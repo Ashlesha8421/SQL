@@ -22,7 +22,7 @@ Database Management System(DBMS) is a software for storing and retriving users d
 *  -- Allows third-party software to store and retrive data.
 
 ### TYPES OF DBMS :
-|| Hirarchial | Network | Object Oriented |
-|   DBMS     |  DBMS   |  DBMS           ||
+| Hirarchial | Network | Object Oriented |
+  |   DBMS     |  DBMS   |  DBMS           
 
 
