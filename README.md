@@ -25,5 +25,9 @@ Database Management System(DBMS) is a software for storing and retriving users d
 |__Hirarchial DBMS__|__Network DBMS__|__Object Oriented DBMS__|__RDBMS__|
 |-------------------|-----------------|-------------------|-------------|
            
-
+## What is RDBMS?
+-- An RDBMS is a subset of DBMS designed speecifically for relational databases.
+-- Is "relational" because the values within each table releated to each other.
+-- Table may also be related to each other.
+-- The relational structure make it possible to run queres across multiple tables.
 
