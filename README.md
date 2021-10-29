@@ -32,8 +32,11 @@ Database Management System(DBMS) is a software for storing and retriving users d
 * -- The relational structure make it possible to run queres across multiple tables.
 
 ## Popular DBMS Software
-
 | MySQL| Microsoft Access | Oracle | PostgreSQL | dBASE | FoxPro | SQLite | IBM DB2 | LibreOffice Base | MariaDB | Microsoft SQL Server |
+
+# RDBMS CONCEPT 
+## * Table : Data element organised in terms of rows and columns
+
 
 
 
